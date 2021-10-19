@@ -1,3 +1,3 @@
 # AirSim
 
-### This repo contains my experiments using drone on AirSim software.
+### This repo contains my experiments using Multirotor on AirSim software.
